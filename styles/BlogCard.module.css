@@ -1,0 +1,15 @@
+.top_border {
+    border-top: 4px solid #A77CA0;
+    border-radius: 5px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+}
+
+.author {
+    display: grid;
+    flex-grow: 1;
+    align-content: end;
+}
